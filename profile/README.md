@@ -34,6 +34,12 @@ https://github.com/academia-dev/academia-pay/blob/main/doc/Diagramas.drawio
 > [!TIP]
 > Abre com [Draw.io](https://draw.io/)
 
+![Diagramas-Arquitetura](https://github.com/academia-dev/academia-pay/blob/main/doc/export/Diagramas-Arquitetura.drawio.png)
+
+![Casos de Uso](https://github.com/academia-dev/academia-pay/blob/main/doc/export/Diagramas-Casos%20de%20Uso.drawio.png)
+
+![MER](https://github.com/academia-dev/academia-pay/blob/main/doc/export/Diagramas-Database%20-%20Management.drawio.png)
+
 # Roadmap 
 
 https://github.com/academia-dev/academia-pay/blob/main/doc/Roadmap%20-%20Arquitetura%20-%20Academia%20Pay.bpm
