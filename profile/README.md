@@ -27,3 +27,10 @@ https://github.com/orgs/academia-dev/projects/2
 
 https://github.com/orgs/academia-dev/projects/1/views/1
 
+# Diagramas
+
+https://github.com/academia-dev/academia-pay/blob/main/doc/Diagramas.drawio
+
+# Roadmap 
+
+https://github.com/academia-dev/academia-pay/blob/main/doc/Roadmap%20-%20Arquitetura%20-%20Academia%20Pay.bpm
