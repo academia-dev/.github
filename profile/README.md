@@ -31,6 +31,12 @@ https://github.com/orgs/academia-dev/projects/1/views/1
 
 https://github.com/academia-dev/academia-pay/blob/main/doc/Diagramas.drawio
 
+> [!TIP]
+> Abre com [Draw.io](https://draw.io/)
+
 # Roadmap 
 
 https://github.com/academia-dev/academia-pay/blob/main/doc/Roadmap%20-%20Arquitetura%20-%20Academia%20Pay.bpm
+
+> [!TIP]
+> Abre com [Bizagi Modeler](https://www.bizagi.com/pt/plataforma/modeler)
