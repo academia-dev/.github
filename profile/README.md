@@ -17,6 +17,10 @@ Hoje esse org contempla a criação do **ACADEMIA PAY**, a criação de um gatew
 1. Assegure-se de que tenha feito login no github.
 2. Os repositórios são privados, então se você faz parte, basta solicitar acesso à organização (procedimento executado no discord) que, uma vez com permissão você acessa todos os repositórios.
 
+# Git Clone
+
+Navegue para o projeto [/academia-dev/academia-pay](https://github.com/academia-dev/academia-pay) e veja o read-me do projeto.
+
 # Projeto ACADEMIA PAY
 
 # Tarefas
